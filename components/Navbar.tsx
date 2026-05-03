@@ -24,11 +24,11 @@ export default function Navbar() {
           : "bg-transparent"
       }`}
     >
-      <nav className="container-px mx-auto max-w-7xl flex items-center justify-between h-16 md:h-20">
+      <nav className="container-px mx-auto max-w-7xl flex items-center justify-between gap-3 h-16 md:h-20">
         <a
           href="#home"
           onClick={close}
-          className="font-display text-xl md:text-2xl tracking-wide"
+          className="font-display text-base sm:text-lg md:text-2xl tracking-wide whitespace-nowrap shrink-0"
         >
           <span className="text-gold">Istanbul</span>{" "}
           <span className="text-neutral-100">Barber</span>

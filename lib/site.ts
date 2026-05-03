@@ -1,7 +1,7 @@
 export const site = {
   name: "Istanbul Barber Shop",
   tagline: "Precision Cuts. Timeless Style.",
-  phone: "+1 (647) 563-2085",
+  phone: "(647) 563-2085",
   phoneHref: "tel:+16475632085",
   city: "North York · Toronto",
   // TODO: replace with the exact street address
