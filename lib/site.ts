@@ -17,7 +17,7 @@ export const site = {
     { day: "Thursday", time: "10:00 AM – 9:00 PM" },
     { day: "Friday", time: "10:00 AM – 9:00 PM" },
     { day: "Saturday", time: "10:00 AM – 9:00 PM" },
-    { day: "Sunday", time: "10:00 AM – 6:00 PM" },
+    { day: "Sunday", time: "10:00 AM – 5:00 PM" },
   ],
   yearsInBusiness: 10,
   clientsServed: "10,000+",
@@ -55,7 +55,7 @@ export const services = [
   },
   {
     name: "Haircut + Beard + Mask",
-    price: "$30",
+    price: "$40",
     description:
       "Cut, beard shape, and a nourishing mask. Skip the wash if you're short on time.",
   },
